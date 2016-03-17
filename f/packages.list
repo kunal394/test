@@ -1,0 +1,17 @@
+
+############# Structure ###########
+#{
+#	packagename : apm,
+#	configlink : www.eg.com/apm.conf,
+#	version : apm.1.0
+#}
+############# Structure ###########
+
+{
+	packages : 
+	{
+		packagename : test1,
+		configlink : www.eg.com/test1.conf,
+		version : test1.1.0
+	}
+}
