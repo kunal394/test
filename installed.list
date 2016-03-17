@@ -1,0 +1,15 @@
+
+############# Structure ###########
+#{
+#	packagename : apm,
+#	version : apm.1.0
+#}
+############# Structure ###########
+
+{
+	packages : 
+	{
+		packagename : test1,
+		version : test1.1.0
+	}
+}
