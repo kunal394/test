@@ -5,6 +5,11 @@
     	"version" : 1.0
 	},
 	{
+	"packagename": "apm1",
+        "conflink": "https://raw.githubusercontent.com/kunal394/test/master/apm1.conf",
+    	"version" : 1.0
+	},
+	{
 	"packagename": "apm2",
         "conflink": "https://raw.githubusercontent.com/kunal394/test/master/apm2.conf",
     	"version" : 1.0
