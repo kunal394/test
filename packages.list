@@ -1,7 +1,7 @@
 [
 	{
-	"packagename": "apm1",
-        "conflink": "https://raw.githubusercontent.com/kunal394/test/master/apm1.conf",
+	"packagename": "apm",
+        "conflink": "https://raw.githubusercontent.com/kunal394/test/master/apm.conf",
     	"version" : 1.0
 	},
 	{
