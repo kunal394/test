@@ -21,8 +21,8 @@
     	"version" : 1.0
 	},
     	{
-    	"packagename": "opm",
-        "conflink": "https://raw.githubusercontent.com/kunal394/test/master/opm.conf",
+    	"packagename": "opm1",
+        "conflink": "https://raw.githubusercontent.com/kunal394/test/master/opm1.conf",
         "version": 1.0
 	}
     ]
