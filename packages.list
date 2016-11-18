@@ -18,12 +18,12 @@
 	{
 	"packagename": "apm3",
         "conflink": "https://raw.githubusercontent.com/kunal394/test/master/apm3.conf",
-    	"version" : 2.0
+    	"version" : 1.0
 	},
     	{
     	"packagename": "opm1",
         "conflink": "https://raw.githubusercontent.com/kunal394/test/master/opm1.conf",
-        "version": 2.0
+        "version": 1.0
 	}
     ]
 }
